@@ -1,0 +1,1 @@
+{"title": "Demo Game", "description": "Demo game for bulk upload", "category": "demo", "tags": ["demo"], "lessonTitle": "Demo Lesson", "lessonContent": "<p>Demo lesson content</p>", "quizzes": [{"question": "1+1?", "options": ["1", "2"], "answerIndex": 1}]}

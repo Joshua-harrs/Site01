@@ -1,0 +1,1 @@
+Stripe placeholders: implement STRIPE_SECRET in backend/.env and use /api/stripe/create-checkout-session and /api/stripe/webhook endpoints.
